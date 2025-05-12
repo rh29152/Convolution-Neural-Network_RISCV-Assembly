@@ -25,4 +25,4 @@ This repository contains files related to a Convolutional Neural Network (CNN) i
    - A build automation tool used to compile the project. It helps in compiling the RISC-V assembly code, running the Python scripts, and managing dependencies across various components of the project.
 
 ### **RUN Command**  
-    -  "make allV"
+      make allV
